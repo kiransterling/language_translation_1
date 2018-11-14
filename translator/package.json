@@ -1,0 +1,7 @@
+{
+"name": "translator",
+"main": "./lib/translator",
+"dependencies": {
+"watson-developer-cloud": "^1.0.0"
+}
+}
